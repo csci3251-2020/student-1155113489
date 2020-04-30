@@ -23,3 +23,6 @@ I'm **Thomas Leong**, a hardware-cloud, full-stack developer who loves to think,
 | Apple        | 2018 Macbook Pro 13 | YES          |
 | Microsoft    | Surface Pro 3       | NO           |
 
+## A screenshot
+
+![screenshot](screenshot.png?raw=true)
